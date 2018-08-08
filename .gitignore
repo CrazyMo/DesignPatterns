@@ -1,0 +1,7 @@
+*.iml
+.gradle
+.project
+.classpath
+/.git
+/.settings
+/bin
